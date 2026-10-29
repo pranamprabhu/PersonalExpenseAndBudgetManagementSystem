@@ -1,0 +1,11 @@
+id,date,category,amount,description,paymentMethod
+1001,2026-10-02,FOOD,450.00,Lunch with team at Bistro,UPI
+1002,2026-10-03,TRANSPORTATION,180.00,Metro Card Recharge,UPI
+1003,2026-10-05,HOUSING,12000.00,Monthly Apartment Rent,Net Banking
+1004,2026-10-08,UTILITIES,1850.00,Electricity & Gas Bill,Credit Card
+1005,2026-10-12,SHOPPING,2499.00,Sneakers online sale,Debit Card
+1006,2026-10-15,ENTERTAINMENT,650.00,Cinema Movie IMAX tickets,UPI
+1007,2026-10-18,HEALTHCARE,850.00,Routine Dental Checkup,Cash
+1008,2026-10-22,FOOD,1420.00,Weekly Grocery Supermarket,Credit Card
+1009,2026-10-25,EDUCATION,1200.00,Java & Spring Boot Book,UPI
+1010,2026-10-28,INVESTMENT,5000.00,Mutual Fund SIP Investment,Net Banking
